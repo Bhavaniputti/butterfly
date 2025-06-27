@@ -99,7 +99,6 @@ Since GitHub doesn't support pushing large files directly:
 ## 📧 Contact
 
 **Bhavani Putti**  
-Email: [your-email@example.com]  
 GitHub: [https://github.com/Bhavaniputti](https://github.com/Bhavaniputti)
 
 ---
