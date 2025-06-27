@@ -59,7 +59,7 @@ To run this project, you’ll need to download or generate the model and dataset
 
 ## 📽 Demo Video
 
-Check out the `demo_video.mp4` file in this repo for a demonstration of how the app works.
+🎥 [Click here to watch the demo video](https://drive.google.com/file/d/your_file_id/view)
 
 ---
 
@@ -67,7 +67,7 @@ Check out the `demo_video.mp4` file in this repo for a demonstration of how the 
 
 For implementation details, model architecture, training process, and evaluation, refer to:
 
-- `project_report.pdf`
+- `project_report.docx`
 
 ---
 
