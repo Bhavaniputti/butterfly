@@ -1,0 +1,6 @@
+tensorflow
+numpy
+matplotlib
+p_utils
+sklearn
+p_utils
